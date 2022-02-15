@@ -1,0 +1,94 @@
+/* RADIOS */
+
+.radiosContent{
+    display: flex;
+    
+}
+
+.radiosContent input{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    width: 20px;
+    height: 20px; 
+    background-color: chartreuse;  
+}
+
+.radiosContent input:hover{
+    cursor: pointer;
+}
+
+.radiosContent label{
+    font-size: 16pt;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 20px;
+    height: 20px;
+}
+
+.radiosTwo{
+    margin-left: 70px;
+}
+
+/* INPUTS */
+
+.dataBlockContent{
+    display: flex;
+    margin: 50px 0px 50px 0px;
+}
+
+.dataBlockContent input{
+    margin-top: 20px;
+}
+
+.dataBlockContent label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.dataBlockOne input{
+    display: block;
+    border: none;
+    border-bottom: 1px solid #888;
+    border-color: rgb(187, 182, 182);
+    background-color: rgb(100, 91, 91); 
+    height: 25px;
+    font-size: 13pt;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.dataBlockTwo{
+    margin-left: 150px;   
+}
+
+.dataBlockTwo input{
+    display: block;
+    border: none;
+    border-bottom: 1px solid #888;
+    border-color: rgb(187, 182, 182);
+    background-color: rgb(100, 91, 91); 
+    height: 25px;
+    font-size: 13pt;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+/* BOTÕES */
+
+Button{
+    color: #fff;
+}
+
+Button[type=reset] {
+    background-color: rgb(100, 91, 91);
+    border:1px solid rgb(177, 176, 176);
+}
+
+Button[type=submit]{
+    background-color: orange;
+    border: 1px solid rgb(177, 176, 176);
+}
