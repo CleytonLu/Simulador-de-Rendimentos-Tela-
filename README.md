@@ -27,8 +27,7 @@
     * #### O servidor iniciará na porta:3000 
     * ### Redirecione para o browser no local que será inciado após os processos de cima <a href='http://localhost:3000' >acesse</a>
 
-* # Como Utilizar
-    ### colocar nos campos cada valor e após isso, clicar no botão laranjua para calcular
-    ### O botão cinza faz resetar todos os campos
-
+* # Com Utilizar
+      #### colocar nos campos cada valor e após isso, clicar no botão laranjua para calcular    
+      #### O botão cinza faz resetar todos os campos
 * ### Feito por Cleyton Lucas <a href='https://www.linkedin.com/in/cleyton-lucas-51aa551b3/' >LinkedIn</a>
