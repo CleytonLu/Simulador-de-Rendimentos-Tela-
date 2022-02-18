@@ -3,6 +3,10 @@
   min-width: 600px;
   padding-bottom: 5%;
   background-color: rgb(100, 91, 91);
+  border: 1px solid rgb(100, 91, 91);
+  border-end-end-radius: 20px ;
+  border-end-start-radius: 20px;
+  box-shadow: 5px 10px 15px rgba(100, 91, 91, .8);
   margin: auto;
 }
 
